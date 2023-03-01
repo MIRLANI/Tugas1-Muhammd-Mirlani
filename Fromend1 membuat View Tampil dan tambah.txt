@@ -1,0 +1,7 @@
+APA YANG BISA DITAMPILKAN DI FROMEND
+1. membuat View yang menampilkan Data yang ada di data base
+   a. menggaunakan html dan 
+   b. menggunakan css
+2. membuat View yang digunakan untuk menambah data
+
+   
