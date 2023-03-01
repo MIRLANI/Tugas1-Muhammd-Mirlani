@@ -1,3 +1,3 @@
 View yang ada yaitu:
-1. membuat view yang digunakan untuk menghapus data
+1. membuat view atau tampilan yang bagus digunakan untuk menghapus data
 2. membuat view yang bagus untuk mengupdate data
