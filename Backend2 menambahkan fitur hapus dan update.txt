@@ -1,0 +1,3 @@
+FITUR YANG DIGUNAKAN YAITU:
+1. membuat program php yang dapat menghapus data 
+2. membuat program php yang dapat mengupdate data
