@@ -1,3 +1,4 @@
 APA YANG BISA DILAKAN DI BAGIAN BACKEND:
 1. membuat program php yang dapat menampilkan data yang ada di database
 2. membuat program php yang dapat menambahkan data di database
+3. ditambahkan dengan  bahasa pemograman javascript
