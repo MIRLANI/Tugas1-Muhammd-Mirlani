@@ -2,3 +2,4 @@ ADAPUN FITUR APLIKASI YANG AKAN SAYA BUAT:
 1. Menghapus
 2. Mengubah
 3. Menambahkan
+4. Menambahkan
